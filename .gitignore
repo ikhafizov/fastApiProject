@@ -1,0 +1,6 @@
+.venv
+test.db
+test_main.http
+.idea/
+app/__pycache__/
+app/routers/__pycache__/
