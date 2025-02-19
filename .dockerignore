@@ -1,0 +1,7 @@
+.DS_Store
+requirements.txt
+.dockerignore
+.gitignore
+.venv
+.git
+.idea
